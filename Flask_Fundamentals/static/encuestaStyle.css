@@ -1,0 +1,24 @@
+.container{
+    height:650px;
+    width:850px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-image: url(https://www.wallpapertip.com/wmimgs/43-439520_spruce-fir-forest.jpg);
+    background-size: contain;
+}
+.centro{
+    height: 320px;
+    width: 550px;
+    background-color:rgb(241, 236, 236, .7);
+    margin: 10px;
+    color: rgb(46, 45, 45);
+}
+.titulo{
+    margin-left: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.subtitulo{
+    margin-left: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
